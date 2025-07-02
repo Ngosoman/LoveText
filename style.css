@@ -63,3 +63,12 @@ body {
 .sound--off {
   text-decoration: line-through;
 }
+.message {
+  position: fixed;
+  top: 7rem;
+  left: 1rem;
+  color: burlywood;
+  font-size: 1.6rem;
+  text-align: center;
+  font-size: 6rem;
+}
